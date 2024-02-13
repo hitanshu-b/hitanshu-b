@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Hitanshu M. Bagde</h1>
-<h3 align="center">A passionate Manual Tester turning into Automation Engineer.</h3>
+<h3 align="center">A passionate Manual Tester turning into an Automation Engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hitanshu-b&label=Profile%20views&color=0e75b6&style=flat" alt="hitanshu-b" /> </p>
 
